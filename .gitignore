@@ -1,0 +1,26 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore SQLite database files
+data/*.db
+
+# Ignore environment-related files
+.env
+venv/
+.envrc
+
+# Ignore logs and output files
+logs/
+*.log
+
+# Ignore generated visualization files
+visuals/charts/
+visuals/reports/
+
+# Ignore system files
+.DS_Store
+Thumbs.db

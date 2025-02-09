@@ -1,0 +1,5 @@
+pandas
+matplotlib
+pillow
+bar_chart_race
+sqlite3
